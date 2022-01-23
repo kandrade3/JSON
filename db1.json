@@ -1,0 +1,104 @@
+{
+        "id": 1001,
+        "name": "World History",
+        "students": [
+            {
+                "id": 902345,
+                "first": "Kyle",
+                "last": "Andrade"
+            },
+            {
+                "id": 902214,
+                "first": "Adrian",
+                "last": "Rosario"
+            }
+
+        ]
+      },
+      {
+        "id": 1002,
+        "name": "US History",
+        "students": [
+            {
+                "id": 912654,
+                "first": "Tim",
+                "last": "Haynes"
+            },
+            {
+                "id": 902214,
+                "first": "John",
+                "last": "Schmidt"
+            }
+
+        ]
+      },
+      {
+        "id": 2001,
+        "name": "Calculus I",
+        "students": [
+            {
+                "id": 902345,
+                "first": "Kyle",
+                "last": "Andrade"
+            },
+            {
+                "id": 902214,
+                "first": "Adrian",
+                "last": "Rosario"
+            }
+
+        ]
+      },
+      {
+        "id": 2002,
+        "name": "Calculus II",
+        "students": [
+            {
+                "id": 902345,
+                "first": "Kyle",
+                "last": "Andrade"
+            },
+            {
+                "id": 902214,
+                "first": "Adrian",
+                "last": "Rosario"
+            }
+
+        ]
+      },
+      {
+        "id": 3001,
+        "name": "Chemistry I",
+        "students": [
+            {
+                "id": 902345,
+                "first": "Kyle",
+                "last": "Andrade"
+            },
+            {
+                "id": 902214,
+                "first": "Adrian",
+                "last": "Rosario"
+            }
+
+        ]
+      },
+      {
+        "id": 4001,
+        "name": "Biology I",
+        "students": [
+            {
+                "id": 902345,
+                "first": "Kyle",
+                "last": "Andrade"
+            },
+            {
+                "id": 902214,
+                "first": "Adrian",
+                "last": "Rosario"
+            }
+
+        ]
+      }
+    ]
+  }
