@@ -1,113 +1,67 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "json-server",
-        "author": "typicode"
-      }
-    ],
-    "courses": [
-      {
-        "id": 1001,
-        "name": "World History",
-        "students": [
-            {
-                "id": 902345,
-                "first": "Kyle",
-                "last": "Andrade"
-            },
-            {
-                "id": 902214,
-                "first": "Adrian",
-                "last": "Rosario"
-            }
-                
-        ]
-      },
-      {
-        "id": 1002,
-        "name": "US History",
-        "students": [
-            {
-                "id": 912654,
-                "first": "Tim",
-                "last": "Haynes"
-            },
-            {
-                "id": 902214,
-                "first": "John",
-                "last": "Schmidt"
-            }
-                
-        ]
-      },
-      {
-        "id": 2001,
-        "name": "Calculus I",
-        "students": [
-            {
-                "id": 902345,
-                "first": "Kyle",
-                "last": "Andrade"
-            },
-            {
-                "id": 902214,
-                "first": "Adrian",
-                "last": "Rosario"
-            }
-                
-        ]
-      },
-      {
-        "id": 2002,
-        "name": "Calculus II",
-        "students": [
-            {
-                "id": 902345,
-                "first": "Kyle",
-                "last": "Andrade"
-            },
-            {
-                "id": 902214,
-                "first": "Adrian",
-                "last": "Rosario"
-            }
-                
-        ]
-      },
-      {
-        "id": 3001,
-        "name": "Chemistry I",
-        "students": [
-            {
-                "id": 902345,
-                "first": "Kyle",
-                "last": "Andrade"
-            },
-            {
-                "id": 902214,
-                "first": "Adrian",
-                "last": "Rosario"
-            }
-                
-        ]
-      },
-      {
-        "id": 4001,
-        "name": "Biology I",
-        "students": [
-            {
-                "id": 902345,
-                "first": "Kyle",
-                "last": "Andrade"
-            },
-            {
-                "id": 902214,
-                "first": "Adrian",
-                "last": "Rosario"
-            }
-                
-        ]
-      }
-    ]
-  }
+  "products": [
+    {
+      "number": 1038462,
+      "name": "ThinkPad 4200",
+      "brand": "Lenovo",
+      "category": "Laptops",
+      "price": "$453.99"
+    },
+    {
+      "number": 4982839,
+      "name": "59 Inch Fire TV",
+      "brand": "Amazon",
+      "category": "Televisions",
+      "price": "$653.99"
+    },
+    {
+      "number": 9382669,
+      "name": "Home Office Chair",
+      "brand": "Furmax",
+      "category": "Chairs",
+      "price": "$60.99"
+    },
+    {
+      "number": 2817374,
+      "name": "Salad Spinner",
+      "brand": "OXO",
+      "category": "Kitchen Accessories",
+      "price": "$30.95"
+    },
+    {
+      "number": 1838428,
+      "name": "15 Piece Knife Set, White",
+      "brand": "Cuisinart",
+      "category": "Kitchen Accessories",
+      "price": "$84.99"
+    },
+    {
+      "number": 8462548,
+      "name": "5-Shelf Bookcase",
+      "brand": "Sauder Dakota",
+      "category": "Office Accessories",
+      "price": "$203.00"
+    },
+    {
+      "number": 4563829,
+      "name": "Featherweight Cordless XRT",
+      "brand": "BISSELL",
+      "category": "Vacuums",
+      "price": "$139.64"
+    },
+    {
+      "number": 6253352,
+      "name": "Roomba i3",
+      "brand": "iRobot",
+      "category": "Vacuums",
+      "price": "$299.00"
+    },
+    {
+      "number": 3747625,
+      "name": "4-Slot Toaster, Brushed Silver",
+      "brand": "Amazon Basics",
+      "category": "Kitchen Accessories",
+      "price": "$47.14"
+    }
+  ]
+}
