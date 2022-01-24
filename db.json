@@ -1,5 +1,6 @@
 {
   "courses":[
+    {
         "id": 1001,
         "name": "World History",
         "students": [
